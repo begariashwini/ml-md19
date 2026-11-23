@@ -1,4 +1,4 @@
- name: Automated Model Training
+name: Automated Model Training
 on:
  push:
   branches: ["main"]
